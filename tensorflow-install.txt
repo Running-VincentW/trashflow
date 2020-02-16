@@ -1,0 +1,27 @@
+conda create -n tff pip python=3.7
+y
+activate tff
+pip install tensorflow-gpu==1.15
+conda install -c anaconda protobuf
+y
+pip install pillow lxml Cython contextlib2 jupyter matplotlib pandas opencv-python
+
+set PYTHONPATH=C:\tensorflow1\models;C:\tensorflow1\models\research;C:\tensorflow1\models\research\slim
+
+cd C:\tensorflow1\models\research
+
+
+python cd build
+python setup.py install
+
+
+cd object_detection
+
+jupyter notebook object_detection_tutorial.ipynb
+
+
+conda install git
+
+pip install "git+https://github.com/philferriere/cocoapi.git#egg=pycocotools&subdirectory=PythonAPI"
+
+python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/ssd_mobilenet_v2_coco.config
