@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ShrunkDataSet</folder>
+	<filename>IMG_1122.JPG</filename>
+	<path>C:\Users\Marcus\Desktop\ImageRecognition\ShrunkDataSet\IMG_1122.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>756</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can_black</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>734</ymin>
+			<xmax>370</xmax>
+			<ymax>1008</ymax>
+		</bndbox>
+	</object>
+</annotation>

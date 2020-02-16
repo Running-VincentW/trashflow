@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ShrunkDataSet</folder>
+	<filename>IMG_1063.JPG</filename>
+	<path>C:\Users\Marcus\Desktop\ImageRecognition\ShrunkDataSet\IMG_1063.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1008</width>
+		<height>756</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper_brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>299</ymin>
+			<xmax>699</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>

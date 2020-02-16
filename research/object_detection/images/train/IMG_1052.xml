@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ShrunkDataSet</folder>
+	<filename>IMG_1052.JPG</filename>
+	<path>C:\Users\Marcus\Desktop\ImageRecognition\ShrunkDataSet\IMG_1052.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>756</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle_purple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>119</ymin>
+			<xmax>723</xmax>
+			<ymax>900</ymax>
+		</bndbox>
+	</object>
+</annotation>

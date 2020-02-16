@@ -1,0 +1,26 @@
+<annotation>
+	<folder>camera</folder>
+	<filename>IMG_1374.JPG</filename>
+	<path>C:\tensorflow1\source\camera\IMG_1374.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>189</width>
+		<height>252</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can_black</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>67</ymin>
+			<xmax>128</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

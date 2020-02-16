@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'paper_white'
+}
+
+item {
+  id: 2
+  name: 'paper_brown'
+}
+
+item {
+  id: 3
+  name: 'can_blue'
+}
+
+item {
+  id: 4
+  name: 'can_black'
+}
+
+item {
+  id: 5
+  name: 'bottle_purple'
+}
+
+item {
+  id: 6
+  name: 'bottle_red'
+}

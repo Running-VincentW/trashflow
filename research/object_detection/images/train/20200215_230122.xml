@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>20200215_230122.jpg</filename>
+	<path>C:\New folder\20200215_230122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can_blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>235</ymin>
+			<xmax>494</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+</annotation>
